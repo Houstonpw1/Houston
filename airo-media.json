@@ -1,0 +1,479 @@
+{
+  "logo/horizontal": {
+    "requestedSize": {
+      "width": 400,
+      "height": 200,
+      "fit": "cover"
+    },
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-421a29e0.png",
+    "searchQuery": "aaa houston pressure washing family cartoon logo",
+    "alternatives": [
+      "/airo-assets/uploads/logo-horizontal-826d2a9b.png",
+      "/airo-assets/uploads/logo-primary-826d2a9b.png",
+      "/airo-assets/uploads/logo-horizontal-ca76389d.jpg",
+      "/airo-assets/uploads/logo-horizontal-080ac3fe.png",
+      "/airo-assets/uploads/logo-horizontal-ad88ba00.png",
+      "/airo-assets/uploads/logo-horizontal-4843b227.png",
+      "https://img1.wsimg.com/isteam/getty/2262543206",
+      "https://img1.wsimg.com/isteam/getty/2278680832",
+      "https://img1.wsimg.com/isteam/getty/2243031739",
+      "https://img1.wsimg.com/isteam/getty/2274845323",
+      "https://img1.wsimg.com/isteam/getty/2228212682"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-05T03:41:25.158Z",
+    "lastUpdated": "2026-10-11T00:00:26.365Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "2262543206",
+      "2278680832",
+      "2243031739",
+      "2274845323",
+      "2228212682"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-ca76389d.jpg": "hvm6hzn77c_1791431521245_file_A4HPjLWKBw.jpg",
+      "/airo-assets/uploads/logo-horizontal-4843b227.png": "hvm6hzn77c_1791253540782_file_4V4qd7N0Ih.png",
+      "/airo-assets/uploads/logo-horizontal-080ac3fe.png": "hvm6hzn77c_1791430587994_file_uiM0gBwVwD.jpg",
+      "/airo-assets/uploads/logo-horizontal-ad88ba00.png": "hvm6hzn77c_1791430768993_file_2lUidSraOZ.jpg",
+      "/airo-assets/uploads/logo-horizontal-826d2a9b.png": "hvm6hzn77c_1791600653675_file_v6Etbd13uQ.jpg",
+      "/airo-assets/uploads/logo-horizontal-421a29e0.png": "hvm6hzn77c_1791676811568_file_bm2rh8cmxs.PNG"
+    },
+    "uploadContentHash": "bcde5b61d8681084aebce97775e8af6d89e6e6798035771d4226f6bd8a2f62b8",
+    "resizedUrl": "/airo-assets/uploads/variants/8be91033d09f7ccdbcf85c65f3ce8c9f.png",
+    "resizedFrom": {
+      "currentUrl": "/airo-assets/uploads/logo-horizontal-421a29e0.png",
+      "sourceBytes": 1719664,
+      "requestedSize": {
+        "width": 400,
+        "height": 200,
+        "fit": "cover"
+      }
+    },
+    "naturalOrientation": "horizontal",
+    "surfaceMode": "light",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-horizontal-421a29e0.png",
+    "caption": "aaa houston pressure washing family cartoon logo"
+  },
+  "logo/primary": {
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-primary-b3e502dd.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-primary-826d2a9b.png",
+      "/airo-assets/uploads/logo-primary-080ac3fe.png",
+      "/airo-assets/uploads/logo-primary-8f5a2b11.png",
+      "/airo-assets/uploads/logo-primary-95b1fd89.png",
+      "/airo-assets/uploads/logo-primary-9cfa3f03.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-9cfa3f03.png": "upload-1791171527419-yPcroU1x.png",
+      "/airo-assets/uploads/logo-primary-826d2a9b.png": "hvm6hzn77c_1791600653675_file_v6Etbd13uQ.jpg",
+      "/airo-assets/uploads/logo-primary-95b1fd89.png": "hvm6hzn77c_1791253540782_file_4V4qd7N0Ih.png",
+      "/airo-assets/uploads/logo-primary-080ac3fe.png": "hvm6hzn77c_1791430587994_file_uiM0gBwVwD.jpg",
+      "/airo-assets/uploads/logo-primary-8f5a2b11.png": "hvm6hzn77c_1791430768993_file_2lUidSraOZ.jpg",
+      "/airo-assets/uploads/logo-primary-b3e502dd.png": "hvm6hzn77c_1791676811568_file_bm2rh8cmxs.PNG"
+    },
+    "uploadContentHash": "bcde5b61d8681084aebce97775e8af6d89e6e6798035771d4226f6bd8a2f62b8",
+    "createdAt": "2026-10-05T03:41:25.158Z",
+    "lastUpdated": "2026-10-11T00:00:26.366Z",
+    "naturalOrientation": "square",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-primary-b3e502dd.png"
+  },
+  "logo/vertical": {
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-a67855bb.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-vertical-2a4d13b7.png",
+      "/airo-assets/uploads/logo-vertical-d548f52e.png",
+      "/airo-assets/uploads/logo-vertical-ad88ba00.png",
+      "/airo-assets/uploads/logo-vertical-d6ba52b9.png",
+      "/airo-assets/uploads/logo-vertical-e9bfa29d.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-e9bfa29d.png": "upload-1791171527419-yPcroU1x.png",
+      "/airo-assets/uploads/logo-vertical-d548f52e.png": "hvm6hzn77c_1791431521245_file_A4HPjLWKBw.jpg",
+      "/airo-assets/uploads/logo-vertical-d6ba52b9.png": "hvm6hzn77c_1791253540782_file_4V4qd7N0Ih.png",
+      "/airo-assets/uploads/logo-vertical-ad88ba00.png": "hvm6hzn77c_1791430587994_file_uiM0gBwVwD.jpg",
+      "/airo-assets/uploads/logo-vertical-2a4d13b7.png": "hvm6hzn77c_1791600653675_file_v6Etbd13uQ.jpg",
+      "/airo-assets/uploads/logo-vertical-a67855bb.png": "hvm6hzn77c_1791676811568_file_bm2rh8cmxs.PNG"
+    },
+    "uploadContentHash": "bcde5b61d8681084aebce97775e8af6d89e6e6798035771d4226f6bd8a2f62b8",
+    "createdAt": "2026-10-05T03:41:25.158Z",
+    "lastUpdated": "2026-10-11T00:00:26.366Z",
+    "naturalOrientation": "vertical",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-a67855bb.png"
+  },
+  "logo/favicon": {
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-5a5f26eb.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-favicon-accedf32.png",
+      "/airo-assets/uploads/logo-favicon-080ac3fe.png",
+      "/airo-assets/uploads/logo-favicon-b7820a35.png",
+      "/airo-assets/uploads/logo-favicon-6ca31430.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-favicon-6ca31430.png": "upload-1791171527419-yPcroU1x.png",
+      "/airo-assets/uploads/logo-favicon-080ac3fe.png": "hvm6hzn77c_1791431521245_file_A4HPjLWKBw.jpg",
+      "/airo-assets/uploads/logo-favicon-b7820a35.png": "hvm6hzn77c_1791253540782_file_4V4qd7N0Ih.png",
+      "/airo-assets/uploads/logo-favicon-accedf32.png": "hvm6hzn77c_1791600653675_file_v6Etbd13uQ.jpg",
+      "/airo-assets/uploads/logo-favicon-5a5f26eb.png": "hvm6hzn77c_1791676811568_file_bm2rh8cmxs.PNG"
+    },
+    "uploadContentHash": "bcde5b61d8681084aebce97775e8af6d89e6e6798035771d4226f6bd8a2f62b8",
+    "createdAt": "2026-10-05T03:41:25.158Z",
+    "lastUpdated": "2026-10-11T00:00:26.366Z",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-favicon-5a5f26eb.png"
+  },
+  "pages/home/before-after": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2285776095",
+    "searchQuery": "dirty concrete driveway before cleaning stained",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1495233670",
+      "https://img1.wsimg.com/isteam/getty/1325783757",
+      "https://img1.wsimg.com/isteam/getty/1919840063",
+      "https://img1.wsimg.com/isteam/getty/2264678699"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-05T03:41:38.090Z",
+    "lastUpdated": "2026-10-05T03:41:38.090Z",
+    "gettyId": "2285776095",
+    "alternativeGettyIds": [
+      "1495233670",
+      "1325783757",
+      "1919840063",
+      "2264678699"
+    ]
+  },
+  "pages/home/service-power-washing": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1397861289",
+    "searchQuery": "power washing commercial storefront cleaning professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2154204729",
+      "https://img1.wsimg.com/isteam/getty/1753310515",
+      "https://img1.wsimg.com/isteam/getty/1277452103",
+      "https://img1.wsimg.com/isteam/getty/2126675211"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-05T03:41:39.885Z",
+    "lastUpdated": "2026-10-05T03:41:39.885Z",
+    "gettyId": "1397861289",
+    "alternativeGettyIds": [
+      "2154204729",
+      "1753310515",
+      "1277452103",
+      "2126675211"
+    ]
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/157475787",
+    "searchQuery": "professional pressure washing house exterior before after dramatic transformation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1993882167",
+      "https://img1.wsimg.com/isteam/getty/1966458590",
+      "https://img1.wsimg.com/isteam/getty/1216666477",
+      "https://img1.wsimg.com/isteam/getty/1145660211"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-05T03:41:43.371Z",
+    "lastUpdated": "2026-10-08T02:24:45.831Z",
+    "gettyId": "157475787",
+    "alternativeGettyIds": [
+      "1993882167",
+      "1966458590",
+      "1216666477",
+      "1145660211"
+    ]
+  },
+  "pages/home/service-driveway": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2199523317",
+    "searchQuery": "clean driveway concrete pressure washing bright",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2177004921",
+      "https://img1.wsimg.com/isteam/getty/2177004910",
+      "https://img1.wsimg.com/isteam/getty/2149039906",
+      "https://img1.wsimg.com/isteam/getty/2196308588"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-05T03:41:44.565Z",
+    "lastUpdated": "2026-10-05T03:41:44.565Z",
+    "gettyId": "2199523317",
+    "alternativeGettyIds": [
+      "2177004921",
+      "2177004910",
+      "2149039906",
+      "2196308588"
+    ]
+  },
+  "pages/home/service-house-washing": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1993882167",
+    "searchQuery": "soft wash house siding cleaning exterior home",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/994921230",
+      "https://img1.wsimg.com/isteam/getty/1419641875",
+      "https://img1.wsimg.com/isteam/getty/2280363553",
+      "https://img1.wsimg.com/isteam/getty/1433424221"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-05T03:41:46.019Z",
+    "lastUpdated": "2026-10-05T03:41:46.019Z",
+    "gettyId": "1993882167",
+    "alternativeGettyIds": [
+      "994921230",
+      "1419641875",
+      "2280363553",
+      "1433424221"
+    ]
+  },
+  "pages/home/before-after-driveway": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-before-after-driveway-81ba14dd.png",
+    "searchQuery": "driveway before after cleaning restoration",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-hero-0b621353.png",
+      "/airo-assets/uploads/pages-home-before-after-driveway-0b621353.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-06T03:06:43.216Z",
+    "lastUpdated": "2026-10-07T19:06:37.690Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-before-after-driveway-0b621353.png": "hvm6hzn77c_1791255984916_file_qavkYyBULS.png",
+      "/airo-assets/uploads/pages-home-before-after-driveway-81ba14dd.png": "hvm6hzn77c_1791399876654_file_jblUxrOibV.png"
+    },
+    "uploadContentHash": "0b619007c6583beaee8a0172b7a466f8053728fd0463d6a8728dbc3fa7f4f1e8",
+    "caption": "driveway before after cleaning restoration"
+  },
+  "pages/home/before-after-house-washing": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-before-after-house-washing-f906f1cc.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-before-after-house-washing-aa139eb2.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-06T03:14:12.711Z",
+    "lastUpdated": "2026-10-07T03:08:29.470Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-before-after-house-washing-aa139eb2.jpg": "hvm6hzn77c_1791256442197_file_fCrc2EaHwz.jpeg",
+      "/airo-assets/uploads/pages-home-before-after-house-washing-f906f1cc.png": "hvm6hzn77c_1791342413152_file_idiMai7AtW.png"
+    },
+    "uploadContentHash": "fd0b17ef5071c04b33247117679a7141bfb4e957df513f60db58771b9eed64b7"
+  },
+  "imported/image-1791342509906": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-before-after-house-washing-aa139eb2.jpg",
+    "searchQuery": "brick home entrance before after cleaning",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-before-after-house-washing-aa139eb2.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "pages/home/before-after-house-washing",
+    "createdAt": "2026-10-07T03:08:29.907Z",
+    "lastUpdated": "2026-10-07T03:08:29.907Z",
+    "caption": "brick home entrance before after cleaning"
+  },
+  "imported/image-1791342638257": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-before-after-driveway-0b621353.png",
+    "searchQuery": "driveway before after cleaning comparison",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-before-after-driveway-0b621353.png"
+    ],
+    "userModified": false,
+    "displacedFrom": "pages/home/before-after-driveway",
+    "createdAt": "2026-10-07T03:10:38.258Z",
+    "lastUpdated": "2026-10-07T03:10:38.258Z",
+    "caption": "driveway before after cleaning comparison"
+  },
+  "pages/home/service-commercial-cleaning": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-service-commercial-cleaning-e4fdcc1c.jpg",
+    "searchQuery": "williams ranch entrance sign texas",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-07T18:44:35.980Z",
+    "lastUpdated": "2026-10-07T18:44:35.980Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-service-commercial-cleaning-e4fdcc1c.jpg": "hvm6hzn77c_1791398642304_file_pwux_uFG_m.jpeg"
+    },
+    "uploadContentHash": "f941522a8df7e7badccb9c937b5ebe87f3dd133478151849938d9d4faffdf524",
+    "caption": "williams ranch entrance sign texas"
+  },
+  "pages/home/service-exterior-building": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-service-exterior-building-df7571e3.jpg",
+    "searchQuery": "industrial warehouse building exterior daytime",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-07T18:47:58.261Z",
+    "lastUpdated": "2026-10-07T18:47:58.261Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-service-exterior-building-df7571e3.jpg": "hvm6hzn77c_1791398787493_file_VqmaePDjlG.jpeg"
+    },
+    "uploadContentHash": "267b19ebacc8070901ca02b45ece262f8f2852083e209a450b5c03ac547678a5",
+    "caption": "industrial warehouse building exterior daytime"
+  },
+  "pages/home/service-drivethru-cleaning": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-service-drivethru-cleaning-7c9cb536.png",
+    "searchQuery": "abandoned gas station with atm sign",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-07T18:59:00.904Z",
+    "lastUpdated": "2026-10-07T18:59:00.904Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-service-drivethru-cleaning-7c9cb536.png": "hvm6hzn77c_1791399215080_file_il7LB5krm2.png"
+    },
+    "uploadContentHash": "5b3b6f1e05fcecce4ac3187a349e87a3ffb88ec9477b05a9409b1355e59f6ea7",
+    "caption": "abandoned gas station with atm sign"
+  },
+  "pages/home/service-patio-cleaning": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-service-patio-cleaning-9c488ba9.jpg",
+    "searchQuery": "stone wall entrance day and sunset comparison",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-08T02:27:36.223Z",
+    "lastUpdated": "2026-10-08T02:27:36.223Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-service-patio-cleaning-9c488ba9.jpg": "hvm6hzn77c_1791426378249_file_NHCo270dtA.JPG"
+    },
+    "uploadContentHash": "326f6266706a70290ccaa5f373cc3de09002d8c28abb68195b3b7a2abd8f9c6e",
+    "caption": "stone wall entrance day and sunset comparison"
+  },
+  "uploads/hero-hvm6hzn77c-1791431521245-file-a4hpjlwkbw": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-hvm6hzn77c-1791431521245-file-a4hpjlwkbw-ca76389d.jpg",
+    "searchQuery": "aaa houston pressure washing family business logo",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-08T03:52:16.780Z",
+    "lastUpdated": "2026-10-08T03:52:16.780Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-hvm6hzn77c-1791431521245-file-a4hpjlwkbw-ca76389d.jpg": "hvm6hzn77c_1791431521245_file_A4HPjLWKBw.jpg"
+    },
+    "uploadContentHash": "e9cca6eca3e18e295b271670f7a5c81b79760364ee6faefeae751eaec3ece553",
+    "caption": "aaa houston pressure washing family business logo"
+  },
+  "debug/header-screenshot-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/debug-header-screenshot-1-d55fc216.png",
+    "searchQuery": "aaa houston pressure washing website header",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-10T22:51:16.534Z",
+    "lastUpdated": "2026-10-10T22:51:16.534Z",
+    "uploadSources": {
+      "/airo-assets/uploads/debug-header-screenshot-1-d55fc216.png": "hvm6hzn77c_1791672533995_file_dmQ7A4seWg.png"
+    },
+    "uploadContentHash": "92b7c3cbe78ad502e12007720d616bd798d4a91ee99acca7f717b43d58a24471",
+    "caption": "aaa houston pressure washing website header"
+  },
+  "debug/header-screenshot-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/debug-header-screenshot-2-8bb03ad7.png",
+    "searchQuery": "website navigation menu bright blue background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-10T22:51:16.696Z",
+    "lastUpdated": "2026-10-10T22:51:16.696Z",
+    "uploadSources": {
+      "/airo-assets/uploads/debug-header-screenshot-2-8bb03ad7.png": "hvm6hzn77c_1791671234408_file_AaO8q5nngZ.png"
+    },
+    "uploadContentHash": "74ff332317c4a1dc1029ac3c7e438dcb3736105e511024acf46870a2d00c5cbb",
+    "caption": "website navigation menu bright blue background"
+  },
+  "debug/header-current": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/debug-header-current-6069c086.png",
+    "searchQuery": "website page under construction dialog box",
+    "alternatives": [
+      "/airo-assets/uploads/debug-header-current-a344a955.png",
+      "/airo-assets/uploads/debug-header-current-80802b64.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-10T22:52:10.677Z",
+    "lastUpdated": "2026-10-10T23:38:17.490Z",
+    "uploadSources": {
+      "/airo-assets/uploads/debug-header-current-80802b64.png": "hvm6hzn77c_1791670963868_file_Gxkvg6_gtQ.png",
+      "/airo-assets/uploads/debug-header-current-a344a955.png": "hvm6hzn77c_1791669303733_file_X4dd-7_ZC2.png",
+      "/airo-assets/uploads/debug-header-current-6069c086.png": "hvm6hzn77c_1791674604283_file_4RcGUoRkV_.png"
+    },
+    "uploadContentHash": "b50b44b6985306fd0c4901d97b1a131e0f622955758fbece33b9db5e5988eee7",
+    "caption": "website page under construction dialog box"
+  },
+  "debug/header-latest": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/debug-header-latest-55d1defe.png",
+    "searchQuery": "mobile app interface blue screen home",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-11T00:31:13.105Z",
+    "lastUpdated": "2026-10-11T00:31:13.105Z",
+    "uploadSources": {
+      "/airo-assets/uploads/debug-header-latest-55d1defe.png": "hvm6hzn77c_1791677001342_file_shzQ3QtkLv.png"
+    },
+    "uploadContentHash": "b909b2974f51f8a04738d1a37109afb41e9699241ad97f372442454a4685adbf",
+    "caption": "mobile app interface blue screen home"
+  }
+}
