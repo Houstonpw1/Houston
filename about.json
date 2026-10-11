@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "About AAA Houston Pressure Washing, LLC | Raleigh, NC",
+    "description": "Learn about AAA Houston Pressure Washing, LLC — Raleigh's trusted exterior cleaning company since 2010. 5-star rated, fully insured, serving Raleigh and surrounding cities."
+  },
+  "hero": {
+    "eyebrow": "About Us",
+    "h1": "Raleigh's Trusted Pressure Washing Company Since 2010",
+    "intro": "We are a family-founded exterior cleaning company with deep roots in Raleigh, NC. Since 2010, we have built our reputation one spotless driveway, one gleaming home, and one satisfied neighbor at a time."
+  },
+  "story_heading": "Our Story",
+  "story_body": "AAA Houston Pressure Washing, LLC was founded in 2010 with a simple mission: deliver honest, high-quality exterior cleaning that homeowners can count on. While our name carries the legacy of our founding roots, our heart and our crew are right here in Raleigh, North Carolina. Over the past decade-plus, we have grown from a small local operation into one of Raleigh's most trusted pressure washing companies — all without ever compromising on the quality and care that built our reputation.",
+  "values_heading": "Our Core Values",
+  "values": [
+    {
+      "id": "v1",
+      "title": "Honesty First",
+      "body": "We give you a straight quote, show up on time, and do exactly what we say we will. No surprises, no upsells, no excuses."
+    },
+    {
+      "id": "v2",
+      "title": "Quality Without Compromise",
+      "body": "We use commercial-grade equipment and professional cleaning solutions on every job — residential or commercial, big or small."
+    },
+    {
+      "id": "v3",
+      "title": "Community Rooted",
+      "body": "We live and work in Raleigh. Supporting our neighbors and keeping Raleigh's neighborhoods looking their best is what drives us every day."
+    },
+    {
+      "id": "v4",
+      "title": "Satisfaction Guaranteed",
+      "body": "Every job comes with our satisfaction guarantee. If you're not happy, we come back and make it right — no questions asked."
+    }
+  ],
+  "credentials_heading": "Credentials & Coverage",
+  "credentials": [
+    {
+      "id": "cr1",
+      "title": "Insurance",
+      "value": "Fully Insured"
+    },
+    {
+      "id": "cr3",
+      "title": "Experience",
+      "value": "Since 2010"
+    },
+    {
+      "id": "cr4",
+      "title": "Service Area",
+      "value": "Raleigh & Surrounding Cities"
+    }
+  ],
+  "cta_heading": "Ready to Work With Us?",
+  "cta_body": "Get your free, no-obligation quote today. Serving Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina & Morrisville."
+}

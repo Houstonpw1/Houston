@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "title": "Pressure Washing Garner NC | AAA Houston Pressure Washing, LLC",
+    "description": "Trusted house washing and driveway cleaning in Garner, NC since 2010. See why we are Garner's top-rated 5-star exterior cleaning company."
+  },
+  "hero": {
+    "eyebrow": "Serving Garner, NC Since 2010",
+    "h1": "Top-Rated Pressure Washing in Garner, NC",
+    "intro": "Don't let North Carolina's humidity take a toll on your property. AAA Houston Pressure Washing, LLC provides dependable, professional exterior cleaning across Garner, NC."
+  },
+  "intro_body": "Since 2010, we have been the go-to exterior cleaning company for Garner homeowners who want real results. Our team understands the unique challenges that Garner's climate presents — from heavy mold growth to stubborn clay stains — and we have the equipment and expertise to handle them all.",
+  "services_heading": "Professional Exterior Cleaning Services in Garner",
+  "services": [
+    {
+      "id": "svc-g1",
+      "h3": "House Washing & Soft-Wash Services",
+      "body": "Garner's humidity creates the perfect environment for mold, mildew, and algae to thrive on your home's exterior. Our soft-wash system kills organic growth at the root and keeps your home cleaner longer."
+    },
+    {
+      "id": "svc-g2",
+      "h3": "Driveway & Concrete Cleaning in Garner",
+      "body": "From red clay stains to oil spills and tire marks, we restore your driveway and concrete surfaces to a bright, clean finish. Our commercial-grade equipment eliminates even the toughest embedded grime."
+    },
+    {
+      "id": "svc-g3",
+      "h3": "Full-Property Power Washing",
+      "body": "Fences, decks, patios, pool surrounds, and more. We handle every exterior surface on your Garner property with the right pressure and the right cleaning solution for lasting results."
+    }
+  ],
+  "why_heading": "Why Garner Residents Choose AAA Houston Pressure Washing, LLC",
+  "why_points": [
+    {
+      "id": "wp-g1",
+      "title": "Local Expertise Since 2010",
+      "body": "We know Garner's neighborhoods, climate, and the specific cleaning challenges that come with them."
+    },
+    {
+      "id": "wp-g2",
+      "title": "5-Star Rated",
+      "body": "Our track record of flawless results and transparent pricing has earned us a perfect 5-star rating."
+    },
+    {
+      "id": "wp-g3",
+      "title": "Insured",
+      "body": "Full coverage on every job. Your home is in safe, professional hands from start to finish."
+    },
+    {
+      "id": "wp-g4",
+      "title": "Free Quotes",
+      "body": "We provide honest, upfront estimates with no hidden fees. Know exactly what you're paying before we start."
+    }
+  ]
+}

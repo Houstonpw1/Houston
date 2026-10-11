@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Pressure Washing Service Areas | AAA Houston Pressure Washing, LLC — Raleigh, NC",
+    "description": "AAA Houston Pressure Washing, LLC serves Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina & Morrisville, NC."
+  },
+  "hero": {
+    "eyebrow": "Where We Work",
+    "h1": "Pressure Washing Service Areas in Raleigh & Surrounding Cities",
+    "intro": "AAA Houston Pressure Washing, LLC proudly serves 10 communities across Raleigh and surrounding cities. Click your city below to see exactly what we offer in your area."
+  },
+  "cities_heading": "All Service Areas",
+  "cities_subheading": "Professional Exterior Cleaning Across Raleigh & Surrounding Cities",
+  "cities": [
+    {
+      "id": "sa-r",
+      "name": "Raleigh",
+      "state": "NC",
+      "path": "/raleigh-pressure-washing",
+      "tagline": "Capital City",
+      "highlight": "Downtown, North Hills, Brier Creek, and all Raleigh neighborhoods.",
+      "neighborhoods": "Downtown, North Hills, Brier Creek, Midtown, Five Points",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-c",
+      "name": "Cary",
+      "state": "NC",
+      "path": "/cary-pressure-washing",
+      "tagline": "RTP Area",
+      "highlight": "Crossroads, Waverly Place, Preston, and all Cary neighborhoods.",
+      "neighborhoods": "Crossroads, Waverly Place, Preston, Lochmere, MacGregor Downs",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-a",
+      "name": "Apex",
+      "state": "NC",
+      "path": "/apex-pressure-washing",
+      "tagline": "Peak of Good Living",
+      "highlight": "Salem Street, Beaver Creek, and all Apex neighborhoods.",
+      "neighborhoods": "Salem Street, Beaver Creek, Haddon Hall, Apex Peakway corridor",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-g",
+      "name": "Garner",
+      "state": "NC",
+      "path": "/garner-pressure-washing",
+      "tagline": "Southern Wake County",
+      "highlight": "US-70, Timber Drive, and all Garner neighborhoods.",
+      "neighborhoods": "US-70 corridor, Timber Drive, Lake Benson area, White Oak",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-wf",
+      "name": "Wake Forest",
+      "state": "NC",
+      "path": "/wake-forest-pressure-washing",
+      "tagline": "Northern Wake County",
+      "highlight": "Capital Boulevard, Rogers Road, and all Wake Forest neighborhoods.",
+      "neighborhoods": "Capital Boulevard, Rogers Road, Heritage, Holding Village",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-d",
+      "name": "Durham",
+      "state": "NC",
+      "path": "/durham-pressure-washing",
+      "tagline": "Bull City",
+      "highlight": "American Tobacco Campus, Brightleaf, South Square, and all Durham neighborhoods.",
+      "neighborhoods": "American Tobacco Campus, Brightleaf, South Square, Duke area",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-hs",
+      "name": "Holly Springs",
+      "state": "NC",
+      "path": "/holly-springs-pressure-washing",
+      "tagline": "Southern Wake County",
+      "highlight": "Bass Lake, Avent Ferry, and all Holly Springs neighborhoods.",
+      "neighborhoods": "Bass Lake, Avent Ferry Road, Twelve Oaks, Holly Glen",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-cl",
+      "name": "Clayton",
+      "state": "NC",
+      "path": "/clayton-pressure-washing",
+      "tagline": "Johnston County",
+      "highlight": "US-70 Business, Hwy 42, and all Clayton neighborhoods.",
+      "neighborhoods": "US-70 Business, Hwy 42, Cleveland area, Flowers Plantation",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-fv",
+      "name": "Fuquay-Varina",
+      "state": "NC",
+      "path": "/fuquay-varina-pressure-washing",
+      "tagline": "Southern Wake County",
+      "highlight": "Main Street, Judd Parkway, and all Fuquay-Varina neighborhoods.",
+      "neighborhoods": "Main Street, Judd Parkway, US-401 corridor, Sunset Lake",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    },
+    {
+      "id": "sa-mv",
+      "name": "Morrisville",
+      "state": "NC",
+      "path": "/morrisville-pressure-washing",
+      "tagline": "RTP Corridor",
+      "highlight": "Davis Drive, Morrisville Parkway, and all Morrisville neighborhoods.",
+      "neighborhoods": "Davis Drive, Morrisville Parkway, Crabtree Creek, RDU area",
+      "services": [
+        "Driveway Cleaning",
+        "House Washing",
+        "Sidewalk Cleaning",
+        "Patio Cleaning",
+        "Softwashing",
+        "Fence Cleaning"
+      ]
+    }
+  ]
+}

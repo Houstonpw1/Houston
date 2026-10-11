@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "title": "Apex Pressure Washing & House Washing | 5-Star Rated",
+    "description": "Professional power washing in Apex, NC. AAA Houston Pressure Washing, LLC restores driveways, sidewalks, and home siding. Get your free estimate!"
+  },
+  "hero": {
+    "eyebrow": "Serving Apex, NC Since 2010",
+    "h1": "Expert Power Washing & House Washing in Apex, NC",
+    "intro": "Keep the Peak City pristine! If your Apex home is suffering from seasonal pollen build-up, heavy mold growth, or unsightly concrete stains, AAA Houston Pressure Washing, LLC is here to help."
+  },
+  "intro_body": "Serving the Apex community for over a decade, our fully insured crew knows exactly how to handle North Carolina's tough environmental elements. We don't believe in a one-size-fits-all approach — we inspect your home's siding and concrete surfaces to map out the safest, most effective cleaning plan.",
+  "services_heading": "Tailored Exterior Cleaning Packages in Apex",
+  "services": [
+    {
+      "id": "svc-a1",
+      "h3": "Siding & Trim Restoration",
+      "body": "We strip away bugs, spiderwebs, and thick mold layers using safe, low-pressure technology. Your siding and trim will look freshly painted without the cost of a repaint."
+    },
+    {
+      "id": "svc-a2",
+      "h3": "Sidewalk & Walkway Safety Cleaning",
+      "body": "We remove slick organic buildup from your walking paths to ensure family and guests stay safe. Slippery walkways are a liability — we eliminate the hazard and restore a clean, bright surface."
+    },
+    {
+      "id": "svc-a3",
+      "h3": "Driveway Detailing in Apex",
+      "body": "High-powered surface cleaning that brightens your concrete and instantly lifts your home's neighborhood profile. We eliminate tire marks, oil stains, and embedded grime for a like-new finish."
+    }
+  ],
+  "why_heading": "Why Apex Homeowners Choose AAA Houston Pressure Washing, LLC",
+  "why_points": [
+    {
+      "id": "wp-a1",
+      "title": "Pollen & Mold Specialists",
+      "body": "NC's seasonal pollen and humidity create unique challenges. We have the solutions to keep your home clean year-round."
+    },
+    {
+      "id": "wp-a2",
+      "title": "Fully Insured Crew",
+      "body": "Every technician is covered. Your property and our team are protected on every job."
+    },
+    {
+      "id": "wp-a3",
+      "title": "Free Estimates",
+      "body": "No surprises. We provide transparent, upfront pricing before any work begins."
+    },
+    {
+      "id": "wp-a4",
+      "title": "5-Star Rated Since 2010",
+      "body": "Trusted by Apex homeowners for over a decade of flawless exterior cleaning results."
+    }
+  ]
+}

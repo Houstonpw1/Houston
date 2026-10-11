@@ -1,0 +1,64 @@
+{
+  "cityCards": [
+    {
+      "name": "Raleigh",
+      "path": "/raleigh-pressure-washing",
+      "desc": "Full residential services throughout Raleigh and all surrounding neighborhoods.",
+      "id": "xzZ5TQsYoxm8dNdhkC-dO"
+    },
+    {
+      "name": "Cary",
+      "path": "/cary-pressure-washing",
+      "desc": "House washing, driveway cleaning, and roof soft washing in Cary, NC.",
+      "id": "Y2Af6rjfIrAcTvNBSLylU"
+    },
+    {
+      "name": "Apex",
+      "path": "/apex-pressure-washing",
+      "desc": "Residential exterior cleaning for homes in Apex and Peak District.",
+      "id": "PseTTGhhisT7fYYHnkIz4"
+    },
+    {
+      "name": "Garner",
+      "path": "/garner-pressure-washing",
+      "desc": "Driveway, patio, and house washing services in Garner, NC.",
+      "id": "uwRE3RtvA96cg92RhqdHr"
+    },
+    {
+      "name": "Holly Springs",
+      "path": "/holly-springs-pressure-washing",
+      "desc": "Pressure washing and soft washing for Holly Springs homeowners.",
+      "id": "ALb4MNt_pypwBQvMr9uNf"
+    },
+    {
+      "name": "Morrisville",
+      "path": "/morrisville-pressure-washing",
+      "desc": "Residential cleaning services throughout Morrisville, NC.",
+      "id": "-RcExkbbR6WLkwJyywRjG"
+    },
+    {
+      "name": "Clayton",
+      "path": "/clayton-pressure-washing",
+      "desc": "House washing, driveway, and fence cleaning in Clayton, NC.",
+      "id": "H6Y0bnWHohU25buHfrhRW"
+    },
+    {
+      "name": "Wake Forest",
+      "path": "/wake-forest-pressure-washing",
+      "desc": "Full exterior cleaning services for Wake Forest homes.",
+      "id": "nNS2yBcig1dsKuKVF28Er"
+    },
+    {
+      "name": "Durham",
+      "path": "/durham-pressure-washing",
+      "desc": "Residential pressure washing throughout Durham and surrounding areas.",
+      "id": "RipO-QRl_Y7TKqVWZ0Wi_"
+    },
+    {
+      "name": "Fuquay-Varina",
+      "path": "/fuquay-varina-pressure-washing",
+      "desc": "House washing, roof soft washing, and driveway cleaning in Fuquay-Varina.",
+      "id": "bdVOkkCUkpDYuIZqk6ngR"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "section_heading": "Pressure Washing Service Areas",
+  "section_subheading": "Serving Raleigh & Surrounding Cities",
+  "section_intro": "AAA Houston Pressure Washing, LLC provides professional exterior cleaning services across 10 communities in Raleigh and surrounding cities. Click your city to see what we offer in your area.",
+  "cities": [
+    {
+      "id": "area-r",
+      "slug": "raleigh",
+      "label": "Raleigh",
+      "path": "/raleigh-pressure-washing",
+      "heading": "Pressure Washing Services in Raleigh, NC",
+      "subheading": "Raleigh's Most Trusted Exterior Cleaning Crew",
+      "body1": "Raleigh is one of the fastest-growing cities in the Southeast — and with that growth comes the constant battle against pollen, red clay, mold, and mildew on every exterior surface. AAA Houston Pressure Washing, LLC has been serving Raleigh homeowners and businesses with professional-grade exterior cleaning that restores curb appeal and protects property values across every Raleigh neighborhood.",
+      "body2": "From North Hills and Brier Creek to Downtown Raleigh and Five Points, our crews deliver consistent, high-quality results on driveways, sidewalks, patios, house siding, fences, and windows.",
+      "features": [
+        {
+          "id": "r-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "r-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "r-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "r-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "r-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "r-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-c",
+      "slug": "cary",
+      "label": "Cary",
+      "path": "/cary-pressure-washing",
+      "heading": "Pressure Washing Services in Cary, NC",
+      "subheading": "Cary's Premier Exterior Cleaning Service",
+      "body1": "Cary homeowners take pride in their properties, and AAA Houston Pressure Washing, LLC helps keep them looking their best. From Preston and Lochmere to Waverly Place, our crew delivers professional-grade exterior cleaning tailored to every surface.",
+      "body2": "We clean driveways, siding, patios, sidewalks, fences, and more — with flexible scheduling that works around your busy lifestyle.",
+      "features": [
+        {
+          "id": "c-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "c-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "c-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "c-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "c-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "c-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-a",
+      "slug": "apex",
+      "label": "Apex",
+      "path": "/apex-pressure-washing",
+      "heading": "Pressure Washing Services in Apex, NC",
+      "subheading": "Apex's Trusted Exterior Cleaning Specialists",
+      "body1": "Apex is one of the fastest-growing towns in the area, and its homeowners demand the best. AAA Houston Pressure Washing, LLC serves Apex with professional exterior cleaning for every surface — driveways, siding, patios, and more.",
+      "body2": "From Salem Street to Beaver Creek Commons, we know Apex neighborhoods and deliver results that make your home stand out.",
+      "features": [
+        {
+          "id": "a-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "a-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "a-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "a-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "a-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "a-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-g",
+      "slug": "garner",
+      "label": "Garner",
+      "path": "/garner-pressure-washing",
+      "heading": "Pressure Washing Services in Garner, NC",
+      "subheading": "Garner's Go-To Pressure Washing Professionals",
+      "body1": "Garner's combination of red clay soil, high humidity, and mature tree canopy creates some of the toughest exterior cleaning challenges in the region. Red clay stains penetrate deep into concrete and masonry, while the humidity accelerates mold and mildew growth on siding, fences, and patios. AAA Houston Pressure Washing, LLC has the equipment and expertise to tackle all of it.",
+      "body2": "We serve all Garner neighborhoods — from White Oak to Lake Benson — with professional pressure washing that restores your property's appearance.",
+      "features": [
+        {
+          "id": "g-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "g-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "g-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "g-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "g-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "g-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-wf",
+      "slug": "wake-forest",
+      "label": "Wake Forest",
+      "path": "/wake-forest-pressure-washing",
+      "heading": "Pressure Washing Services in Wake Forest, NC",
+      "subheading": "Wake Forest's Trusted Exterior Cleaning Crew",
+      "body1": "Wake Forest is one of the fastest-growing communities in northern Wake County, with new construction and established neighborhoods side by side. Whether your home is brand new or an older property that's accumulated years of mold and staining, AAA Houston Pressure Washing, LLC delivers the same high-quality results across every Wake Forest neighborhood.",
+      "body2": "From Heritage and Holding Village to the Capital Boulevard corridor, we serve all of Wake Forest with professional pressure washing and soft washing services.",
+      "features": [
+        {
+          "id": "wf-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "wf-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "wf-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "wf-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "wf-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "wf-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-d",
+      "slug": "durham",
+      "label": "Durham",
+      "path": "/durham-pressure-washing",
+      "heading": "Pressure Washing Services in Durham, NC",
+      "subheading": "Durham's Premier Pressure Washing Service",
+      "body1": "Durham's vibrant mix of historic neighborhoods and modern developments demands professional exterior cleaning. From the American Tobacco Campus area to South Square and Duke University neighborhoods, AAA Houston Pressure Washing, LLC serves Durham with 5-star exterior cleaning.",
+      "body2": "We clean driveways, siding, patios, sidewalks, fences, and commercial properties throughout Durham — with eco-friendly solutions and flexible scheduling.",
+      "features": [
+        {
+          "id": "d-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "d-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "d-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "d-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "d-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "d-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-hs",
+      "slug": "holly-springs",
+      "label": "Holly Springs",
+      "path": "/holly-springs-pressure-washing",
+      "heading": "Pressure Washing Services in Holly Springs, NC",
+      "subheading": "Holly Springs' Trusted Exterior Cleaning Specialists",
+      "body1": "Holly Springs has grown into one of the most desirable communities in southern Wake County, with beautiful neighborhoods surrounding Bass Lake. Keeping up with the area's exterior cleaning demands — heavy pollen, mold from the humid summers, and red clay staining — requires professional equipment and expertise that AAA Houston Pressure Washing, LLC delivers.",
+      "body2": "From Twelve Oaks and Holly Glen to Bass Lake Road, we serve all Holly Springs neighborhoods with professional pressure washing.",
+      "features": [
+        {
+          "id": "hs-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "hs-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "hs-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "hs-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "hs-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "hs-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-cl",
+      "slug": "clayton",
+      "label": "Clayton",
+      "path": "/clayton-pressure-washing",
+      "heading": "Pressure Washing Services in Clayton, NC",
+      "subheading": "Clayton's Go-To Pressure Washing Professionals",
+      "body1": "Clayton and Johnston County present some of the most challenging exterior cleaning conditions in the region — deep red clay soil that stains concrete and masonry, high humidity that drives mold and mildew growth, and the dust and grime that comes with the area's mix of rural and suburban properties. AAA Houston Pressure Washing, LLC has the equipment and experience to handle all of it.",
+      "body2": "We serve all Clayton neighborhoods — from Flowers Plantation to the US-70 Business corridor — with professional pressure washing that restores your property's appearance.",
+      "features": [
+        {
+          "id": "cl-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "cl-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "cl-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "cl-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "cl-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "cl-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-fv",
+      "slug": "fuquay-varina",
+      "label": "Fuquay-Varina",
+      "path": "/fuquay-varina-pressure-washing",
+      "heading": "Pressure Washing Services in Fuquay-Varina, NC",
+      "subheading": "Fuquay-Varina's Trusted Exterior Cleaning Crew",
+      "body1": "Fuquay-Varina's rapid growth has brought beautiful new neighborhoods and thriving businesses to southern Wake County. AAA Houston Pressure Washing, LLC serves Fuquay-Varina homeowners with professional exterior cleaning — from Main Street to Sunset Lake and the US-401 corridor.",
+      "body2": "We clean driveways, siding, patios, sidewalks, fences, and commercial properties throughout Fuquay-Varina with eco-friendly solutions and flexible scheduling.",
+      "features": [
+        {
+          "id": "fv-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "fv-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "fv-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "fv-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "fv-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "fv-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    },
+    {
+      "id": "area-mv",
+      "slug": "morrisville",
+      "label": "Morrisville",
+      "path": "/morrisville-pressure-washing",
+      "heading": "Pressure Washing Services in Morrisville, NC",
+      "subheading": "Morrisville's Premier Pressure Washing Service",
+      "body1": "Morrisville sits at the heart of the RTP corridor, with a dense mix of residential neighborhoods, corporate campuses, and commercial properties. The town's rapid growth and proximity to RDU Airport mean constant exposure to traffic pollution, pollen, and the humidity-driven mold and mildew that accumulates on every exterior surface. AAA Houston Pressure Washing, LLC keeps Morrisville properties clean and professional-looking.",
+      "body2": "From Davis Drive and Morrisville Parkway to Crabtree Creek neighborhoods, we serve all of Morrisville with professional pressure washing and soft washing services.",
+      "features": [
+        {
+          "id": "mv-f1",
+          "text": "Driveway & concrete cleaning"
+        },
+        {
+          "id": "mv-f2",
+          "text": "House & siding washing"
+        },
+        {
+          "id": "mv-f3",
+          "text": "Patio & walkway cleaning"
+        },
+        {
+          "id": "mv-f4",
+          "text": "Fence cleaning"
+        },
+        {
+          "id": "mv-f5",
+          "text": "Commercial pressure washing"
+        },
+        {
+          "id": "mv-f6",
+          "text": "Softwashing & mold removal"
+        }
+      ]
+    }
+  ]
+}

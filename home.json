@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "headline": "Raleigh's #1 Pressure Washing Experts",
+    "subheadline": "Professional exterior cleaning for homes and businesses across Raleigh, Cary, Apex, Garner & surrounding cities.",
+    "cta_primary": "Get a Free Quote",
+    "cta_secondary": "See Our Work"
+  },
+  "trust_items": [
+    {
+      "id": "t1",
+      "value": "Fully Insured",
+      "label": "Licensed & Insured",
+      "icon": "shield"
+    },
+    {
+      "id": "t2",
+      "value": "5-Star Rated",
+      "label": "Google Reviews",
+      "icon": "star"
+    },
+    {
+      "id": "t3",
+      "value": "Free Estimates",
+      "label": "No Obligation Quotes",
+      "icon": "tag"
+    },
+    {
+      "id": "t4",
+      "value": "Guaranteed",
+      "label": "100% Satisfaction",
+      "icon": "check"
+    }
+  ],
+  "services_heading": "Our Core Exterior Cleaning Services",
+  "services_subheading": "Professional pressure washing and soft washing for every surface on your property.",
+  "services": [
+    {
+      "id": "svc1",
+      "title": "Driveway Cleaning",
+      "description": "Remove oil stains, tire marks, mold, and years of embedded grime from concrete and asphalt driveways."
+    },
+    {
+      "id": "svc2",
+      "title": "House Washing",
+      "description": "Safe soft washing for all siding types — vinyl, hardie plank, brick, stucco, and wood."
+    },
+    {
+      "id": "svc3",
+      "title": "Stone & Masonry Cleaning",
+      "description": "Expert stone cleaning for retaining walls, pillars, pavers, and natural stone surfaces. We safely remove black mold, algae, and years of buildup — restoring your stone to its original beauty without damage."
+    },
+    {
+      "id": "svc4",
+      "title": "Drive Thru Cleaning",
+      "description": "Professional high-pressure cleaning for bank and retail drive-thru lanes — removing oil, grime, and buildup from concrete surfaces."
+    },
+    {
+      "id": "svc5",
+      "title": "Exterior Building Cleaning",
+      "description": "Professional pressure washing for commercial and industrial building exteriors — metal siding, concrete panels, storefronts, and more."
+    },
+    {
+      "id": "svc6",
+      "title": "Commercial Cleaning",
+      "description": "Full-service commercial exterior cleaning for businesses, parking lots, and property managers."
+    }
+  ],
+  "why_heading": "Why Raleigh Homeowners Choose a 5-Star Rated Professional",
+  "why_items": [
+    {
+      "id": "w1",
+      "title": "Fully Insured",
+      "body": "We carry full liability insurance and are properly insured for all residential and commercial work in North Carolina."
+    },
+    {
+      "id": "w2",
+      "title": "Eco-Friendly Solutions",
+      "body": "Our cleaning solutions are biodegradable and safe for your family, pets, and landscaping."
+    },
+    {
+      "id": "w3",
+      "title": "Satisfaction Guaranteed",
+      "body": "We stand behind every job. If you're not completely satisfied, we'll come back and make it right — no questions asked."
+    },
+    {
+      "id": "w4",
+      "title": "Over a Decade of Experience",
+      "body": "Since 2010, we've cleaned thousands of homes and businesses across Raleigh and surrounding cities."
+    }
+  ],
+  "areas_heading": "Proudly Serving Raleigh & Surrounding Cities",
+  "areas_subheading": "Click your city to see what we offer in your area.",
+  "cta_banner": {
+    "heading": "Ready for a Cleaner Home?",
+    "subheading": "Get your free, no-obligation quote today. We serve Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina & Morrisville.",
+    "cta_primary": "Get a Free Quote",
+    "cta_review": "★ Leave Us a Review"
+  }
+}

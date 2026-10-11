@@ -1,0 +1,808 @@
+{
+  "meta": {
+    "title": "Pressure Washing Services in Raleigh, NC | AAA Houston Pressure Washing, LLC",
+    "description": "Professional exterior cleaning services in Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina & Morrisville, NC."
+  },
+  "hero": {
+    "eyebrow": "Our Services",
+    "h1": "Exterior Cleaning Services in Raleigh & Surrounding Cities",
+    "intro": "Professional pressure washing and soft washing for homes and businesses across Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina, and Morrisville."
+  },
+  "tabs": [
+    {
+      "id": "tab-comm",
+      "slug": "commercial-cleaning",
+      "label": "Commercial Cleaning",
+      "heading": "Commercial Pressure Washing Services",
+      "subheading": "Professional Exterior Cleaning for Businesses Across Raleigh & Surrounding Cities",
+      "body1": "AAA Houston Pressure Washing, LLC provides comprehensive commercial exterior cleaning for businesses, property managers, and commercial property owners throughout Wake County, Durham County, Johnston County, and surrounding areas. From retail storefronts and office parks to parking lots, loading docks, and multi-story building exteriors, we have the equipment and expertise to handle any commercial cleaning challenge.",
+      "body2": "We work around your business hours to minimize disruption, offer flexible scheduling including nights and weekends, and provide detailed commercial quotes with no hidden fees. Our fully insured team brings commercial-grade equipment and eco-friendly cleaning solutions to every job.",
+      "features": [
+        {
+          "id": "cf1",
+          "text": "Fully insured for commercial work"
+        },
+        {
+          "id": "cf2",
+          "text": "Serving Raleigh & surrounding cities"
+        },
+        {
+          "id": "cf3",
+          "text": "Custom commercial quotes available"
+        },
+        {
+          "id": "cf4",
+          "text": "Flexible scheduling — nights & weekends"
+        },
+        {
+          "id": "cf5",
+          "text": "Commercial-grade equipment & solutions"
+        },
+        {
+          "id": "cf6",
+          "text": "Property managers & HOAs welcome"
+        }
+      ],
+      "isCommercial": true,
+      "commercialCategories": [
+        {
+          "id": "cat-1",
+          "heading": "Hardscapes & Flatwork",
+          "subheading": "High-Traffic Ground Surfaces",
+          "intro": "These high-traffic ground surfaces are the most common areas requiring commercial washing due to heavy foot traffic, vehicles, and weather exposure.",
+          "services": [
+            {
+              "id": "s1-1",
+              "name": "Sidewalks & Entryways",
+              "description": "Removes chewing gum, heavy soda spills, food stains, and layers of gray foot-traffic grime."
+            },
+            {
+              "id": "s1-2",
+              "name": "Parking Lots & Parking Garages",
+              "description": "Cleans entire concrete or asphalt parking zones, lifting tire tracks, brake dust, and mud."
+            },
+            {
+              "id": "s1-3",
+              "name": "Oil & Fluid Stains",
+              "description": "Blasts away dark oil spots, transmission fluid drips, and antifreeze stains left by leaking vehicles."
+            },
+            {
+              "id": "s1-4",
+              "name": "Drive-Thru Lanes",
+              "description": "Cleans concentrated buildup of heavy engine oil, exhaust soot, and spilled food or drinks at fast-food lanes and bank kiosks."
+            },
+            {
+              "id": "s1-5",
+              "name": "Loading Docks & Delivery Bays",
+              "description": "Removes heavy industrial grime, grease, tire marks from semi-trucks, and forklift tracks."
+            },
+            {
+              "id": "s1-6",
+              "name": "Dumpster Pads & Enclosures",
+              "description": "Sanitizes and scrubs the concrete slab where trash bins sit."
+            },
+            {
+              "id": "s1-7",
+              "name": "Patios, Courtyards & Plazas",
+              "description": "Deep cleans outdoor dining areas, community plazas, and brick walkways."
+            },
+            {
+              "id": "s1-8",
+              "name": "Stairwells & Parking Ramps",
+              "description": "Cleans enclosed or outdoor concrete staircases and multi-level garage ramps."
+            },
+            {
+              "id": "s1-9",
+              "name": "Gas Station Pump Islands",
+              "description": "Dissolves diesel and gasoline spills, grease, and grime around fuel pumps."
+            }
+          ]
+        },
+        {
+          "id": "cat-2",
+          "heading": "Building Structural Exteriors",
+          "subheading": "Restore & Protect Your Building Envelope",
+          "intro": "These services restore the exterior of the property to prevent structural damage and keep the building looking fresh and professional.",
+          "services": [
+            {
+              "id": "s2-1",
+              "name": "Storefronts & Facades",
+              "description": "Refreshes retail frontages, removing cobwebs, bird droppings, dust, and spider webs from customer entrances."
+            },
+            {
+              "id": "s2-2",
+              "name": "Building Siding & Walls",
+              "description": "Washes large vertical walls made of brick, concrete, stucco, EIFS, metal panels, or wood siding."
+            },
+            {
+              "id": "s2-3",
+              "name": "High-Rise & Multi-Story Exteriors",
+              "description": "Cleans the walls of tall commercial buildings utilizing boom lifts, scaffolding, or water-fed extension poles."
+            },
+            {
+              "id": "s2-4",
+              "name": "Mold, Mildew & Algae Removal",
+              "description": "Eradicates green or black organic growth thriving on shaded walls, columns, and foundations."
+            },
+            {
+              "id": "s2-5",
+              "name": "Graffiti Removal",
+              "description": "Uses heavy heat, pressure, and special chemical strippers to lift spray paint and permanent markers."
+            },
+            {
+              "id": "s2-6",
+              "name": "Rust & Efflorescence Stain Removal",
+              "description": "Cleans orange rust streaks and removes white powdery salt buildup on masonry."
+            },
+            {
+              "id": "s2-7",
+              "name": "Awnings & Canopies",
+              "description": "Gently washes fabric, vinyl, or metal awnings above storefront doors."
+            },
+            {
+              "id": "s2-8",
+              "name": "Commercial Roofs",
+              "description": "Soft-washes flat or sloped commercial roofs to clear away black algae streaks, moss, and lichen."
+            }
+          ]
+        },
+        {
+          "id": "cat-3",
+          "heading": "Fencing, Boundaries & Landscape Elements",
+          "subheading": "Preserve Security & Appearance",
+          "intro": "The structures surrounding the main property require routine cleaning to preserve security, safety, and professional appearance.",
+          "services": [
+            {
+              "id": "s3-1",
+              "name": "Retaining Walls & Privacy Fences",
+              "description": "Cleans stone, brick, concrete block, or vinyl perimeter fences surrounding commercial layouts."
+            },
+            {
+              "id": "s3-2",
+              "name": "Dumpster Gates & Enclosure Walls",
+              "description": "Washes the wood, chain-link, or brick walls that enclose commercial trash bins."
+            },
+            {
+              "id": "s3-3",
+              "name": "Monuments & Pylon Signage",
+              "description": "Washes large concrete, brick, or plastic signs near roads that display the business name and logo."
+            },
+            {
+              "id": "s3-4",
+              "name": "Curbs, Gutters & Bollards",
+              "description": "Cleans the concrete edges of parking lots, storm drains, and safety posts."
+            }
+          ]
+        },
+        {
+          "id": "cat-4",
+          "heading": "Specialty Industrial & Commercial Assets",
+          "subheading": "Specialized Cleaning for High-Value Equipment",
+          "intro": "Specialized niche cleaning targets that require commercial-grade equipment and expertise to handle safely and effectively.",
+          "services": [
+            {
+              "id": "s4-1",
+              "name": "Heavy Machinery & Construction Equipment",
+              "description": "Blasts thick mud, grease, and hydraulic oil off bulldozers, excavators, tractors, and cranes."
+            },
+            {
+              "id": "s4-2",
+              "name": "Commercial Vehicle Fleets",
+              "description": "Washes rows of delivery vans, semi-trucks, trailers, box trucks, or transit buses."
+            },
+            {
+              "id": "s4-3",
+              "name": "Shopping Carts & Cart Corrals",
+              "description": "Sanitizes metal or plastic shopping carts and the outdoor metal stalls where customers return them."
+            },
+            {
+              "id": "s4-4",
+              "name": "Playgrounds & Park Equipment",
+              "description": "Sanitizes and washes plastic, metal, or wood playground structures at daycares and parks."
+            },
+            {
+              "id": "s4-5",
+              "name": "Stadia & Bleachers",
+              "description": "Cleans large seating areas, concrete steps, and concession areas inside sports arenas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tab-drv",
+      "slug": "driveway-cleaning",
+      "label": "Driveway Cleaning",
+      "heading": "Professional Driveway Cleaning in Raleigh & Surrounding Cities",
+      "subheading": "Restore Your Driveway to Like-New Condition",
+      "body1": "Your driveway is one of the first things visitors and neighbors notice about your home. Over time, concrete and asphalt driveways accumulate oil stains, tire marks, mold, mildew, and embedded dirt that regular hosing simply can't remove. Our professional driveway cleaning service uses commercial-grade pressure washing equipment to blast away years of buildup and restore your driveway to like-new condition.",
+      "body2": "We use surface cleaners for even, streak-free results across the entire driveway surface — no zebra stripes or missed spots. Pre-treatment with eco-friendly degreasers breaks down oil and grease before we pressure wash, ensuring the deepest possible clean. Post-rinse and edge detailing complete the job.",
+      "features": [
+        {
+          "id": "d1",
+          "text": "Oil & grease stain removal"
+        },
+        {
+          "id": "d2",
+          "text": "Mold & mildew elimination"
+        },
+        {
+          "id": "d3",
+          "text": "Surface cleaner for even results"
+        },
+        {
+          "id": "d4",
+          "text": "Concrete & asphalt safe"
+        },
+        {
+          "id": "d5",
+          "text": "Edge & border detailing"
+        },
+        {
+          "id": "d6",
+          "text": "Eco-friendly pre-treatment"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-swk",
+      "slug": "sidewalk-cleaning",
+      "label": "Sidewalk Cleaning",
+      "heading": "Sidewalk & Walkway Pressure Washing",
+      "subheading": "Safe, Clean Walkways for Your Home or Business",
+      "body1": "Sidewalks and walkways take a beating from foot traffic, weather, and organic growth. Algae, mold, and mildew make concrete surfaces dangerously slippery — especially after rain. Our sidewalk cleaning service removes all of it, leaving your walkways clean, safe, and looking their best.",
+      "body2": "We clean front walkways, back paths, pool decks, and any other concrete or paver surfaces around your property. Our surface cleaner attachment ensures consistent pressure across the entire surface for streak-free results every time.",
+      "features": [
+        {
+          "id": "sw1",
+          "text": "Algae & mold removal"
+        },
+        {
+          "id": "sw2",
+          "text": "Slip hazard elimination"
+        },
+        {
+          "id": "sw3",
+          "text": "Concrete & paver safe"
+        },
+        {
+          "id": "sw4",
+          "text": "Gum & stain removal"
+        },
+        {
+          "id": "sw5",
+          "text": "Even surface cleaning"
+        },
+        {
+          "id": "sw6",
+          "text": "Front & back walkways"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-fpt",
+      "slug": "front-patio-cleaning",
+      "label": "Front Patio Cleaning",
+      "heading": "Front Patio & Entryway Pressure Washing",
+      "subheading": "Make a Great First Impression Every Time",
+      "body1": "Your front patio and entryway set the tone for your entire home. Dirty, stained, or algae-covered concrete sends the wrong message to guests and neighbors. Our front patio cleaning service restores your entryway to its original clean, welcoming appearance.",
+      "body2": "We clean all front patio surfaces including concrete, brick, pavers, and natural stone. Stubborn stains from rust, leaves, and organic growth are pre-treated before pressure washing for the best possible results.",
+      "features": [
+        {
+          "id": "fp1",
+          "text": "Concrete, brick & paver cleaning"
+        },
+        {
+          "id": "fp2",
+          "text": "Rust & leaf stain removal"
+        },
+        {
+          "id": "fp3",
+          "text": "Algae & mold elimination"
+        },
+        {
+          "id": "fp4",
+          "text": "Natural stone safe"
+        },
+        {
+          "id": "fp5",
+          "text": "Edge & border detailing"
+        },
+        {
+          "id": "fp6",
+          "text": "Pre-treatment for tough stains"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-bpt",
+      "slug": "back-patio-cleaning",
+      "label": "Back Patio Cleaning",
+      "heading": "Back Patio & Outdoor Living Space Cleaning",
+      "subheading": "Reclaim Your Outdoor Living Space",
+      "body1": "Back patios and outdoor living areas accumulate grime, mold, algae, and stains faster than almost any other surface on your property. Between cookouts, rain, and shade from trees, your back patio can go from beautiful to grimy in a single season. Our back patio cleaning service brings it back to life.",
+      "body2": "We clean all back patio surfaces including concrete, pavers, brick, and composite decking surrounds. Pool deck cleaning, outdoor kitchen areas, and fire pit surrounds are all part of our comprehensive back patio service.",
+      "features": [
+        {
+          "id": "bp1",
+          "text": "Concrete, pavers & brick"
+        },
+        {
+          "id": "bp2",
+          "text": "Pool deck cleaning"
+        },
+        {
+          "id": "bp3",
+          "text": "Grease & food stain removal"
+        },
+        {
+          "id": "bp4",
+          "text": "Mold & algae elimination"
+        },
+        {
+          "id": "bp5",
+          "text": "Outdoor kitchen areas"
+        },
+        {
+          "id": "bp6",
+          "text": "Safe for all patio surfaces"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-win",
+      "slug": "window-washing",
+      "label": "Window Washing",
+      "heading": "Professional Window Washing Services",
+      "subheading": "Crystal Clear Windows, Inside & Out",
+      "body1": "Clean windows transform the look of your home and let in more natural light. Over time, windows accumulate hard water spots, pollen, dust, and oxidation that regular cleaning can't remove. Our professional window washing service leaves every pane spotless and streak-free.",
+      "body2": "We clean all exterior windows using professional squeegee techniques and spot-free rinse water. Screen cleaning, sill wiping, and frame cleaning are included with every window washing service.",
+      "features": [
+        {
+          "id": "w1",
+          "text": "Streak-free results"
+        },
+        {
+          "id": "w2",
+          "text": "Hard water spot removal"
+        },
+        {
+          "id": "w3",
+          "text": "Screen & sill cleaning"
+        },
+        {
+          "id": "w4",
+          "text": "Frame & track cleaning"
+        },
+        {
+          "id": "w5",
+          "text": "Spot-free rinse water"
+        },
+        {
+          "id": "w6",
+          "text": "All window types & sizes"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-hwsh",
+      "slug": "house-washing",
+      "label": "House Washing",
+      "heading": "Professional House Washing in Raleigh & Surrounding Cities",
+      "subheading": "Restore Your Home's Curb Appeal with a Deep Clean",
+      "body1": "Your home's siding is constantly exposed to pollen, mold, mildew, algae, and environmental pollutants that dull its appearance and can cause long-term damage if left untreated. Our professional house washing service removes all of it safely and effectively, restoring your home's original color and curb appeal.",
+      "body2": "We use a soft wash approach for all siding types — vinyl, hardie plank, brick, stucco, and wood — applying low-pressure water with professional-grade cleaning solutions that kill mold and algae at the root. This is safer than high-pressure washing and produces longer-lasting results.",
+      "features": [
+        {
+          "id": "h1",
+          "text": "Vinyl, hardie & brick safe"
+        },
+        {
+          "id": "h2",
+          "text": "Soft wash approach"
+        },
+        {
+          "id": "h3",
+          "text": "Mold & algae elimination"
+        },
+        {
+          "id": "h4",
+          "text": "Pollen & dust removal"
+        },
+        {
+          "id": "h5",
+          "text": "Eco-friendly solutions"
+        },
+        {
+          "id": "h6",
+          "text": "Longer-lasting results"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-soft",
+      "slug": "softwashing",
+      "label": "Softwashing",
+      "heading": "Professional Softwashing Services",
+      "subheading": "Gentle on Surfaces, Tough on Mold & Algae",
+      "body1": "Softwashing is the preferred method for cleaning delicate surfaces that can't withstand high-pressure washing — roofs, painted wood, stucco, EIFS, and older brick. Instead of relying on pressure alone, softwashing uses low-pressure water combined with professional-grade cleaning solutions to kill mold, algae, and bacteria at the root.",
+      "body2": "Our softwash treatments are safe for all exterior surfaces and produce results that last 4–6 times longer than pressure washing alone because the cleaning agents kill the organic growth rather than just blasting it away.",
+      "features": [
+        {
+          "id": "sf1",
+          "text": "Safe for all siding types"
+        },
+        {
+          "id": "sf2",
+          "text": "Roof & shingle safe"
+        },
+        {
+          "id": "sf3",
+          "text": "Kills mold at the root"
+        },
+        {
+          "id": "sf4",
+          "text": "Longer-lasting results"
+        },
+        {
+          "id": "sf5",
+          "text": "Eco-friendly solutions"
+        },
+        {
+          "id": "sf6",
+          "text": "No surface damage risk"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-mold",
+      "slug": "mold-grime-removal",
+      "label": "Mold & Grime Removal",
+      "heading": "Mold & Grime Removal Services",
+      "subheading": "Eliminate Mold, Mildew & Organic Growth for Good",
+      "body1": "Mold, mildew, and algae don't just look bad — they can cause structural damage to your home and pose health risks to your family. Our mold and grime removal service uses professional-grade biocides and cleaning solutions to kill organic growth at the root and prevent it from coming back.",
+      "body2": "We treat all affected surfaces including siding, concrete, brick, wood, and roofing. Post-treatment preventive coatings are available to extend the time between cleanings and keep your property looking clean longer.",
+      "features": [
+        {
+          "id": "m1",
+          "text": "Kills mold at the root"
+        },
+        {
+          "id": "m2",
+          "text": "Prevents regrowth"
+        },
+        {
+          "id": "m3",
+          "text": "All surface types"
+        },
+        {
+          "id": "m4",
+          "text": "Health & safety focused"
+        },
+        {
+          "id": "m5",
+          "text": "Preventive treatments available"
+        },
+        {
+          "id": "m6",
+          "text": "Eco-friendly biocides"
+        }
+      ],
+      "isCommercial": false
+    },
+    {
+      "id": "tab-fnc",
+      "slug": "fence-cleaning",
+      "label": "Fence Cleaning",
+      "heading": "Professional Fence Cleaning Services",
+      "subheading": "Restore Your Fence to Its Original Appearance",
+      "body1": "Fences are constantly exposed to the elements and quickly accumulate mold, mildew, algae, dirt, and discoloration. Whether your fence is wood, vinyl, aluminum, or chain-link, our professional fence cleaning service removes years of buildup and restores it to its original appearance.",
+      "body2": "We adjust our pressure and cleaning solutions based on your fence material to ensure a thorough clean without any damage. Wood fences receive a gentle soft wash to prevent grain raising, while vinyl and metal fences can handle higher pressure for a deeper clean.",
+      "features": [
+        {
+          "id": "fn1",
+          "text": "Wood, vinyl & metal fences"
+        },
+        {
+          "id": "fn2",
+          "text": "Mold & algae removal"
+        },
+        {
+          "id": "fn3",
+          "text": "Discoloration treatment"
+        },
+        {
+          "id": "fn4",
+          "text": "Pressure adjusted per material"
+        },
+        {
+          "id": "fn5",
+          "text": "Post & rail detailing"
+        },
+        {
+          "id": "fn6",
+          "text": "Eco-friendly solutions"
+        }
+      ],
+      "isCommercial": false
+    }
+  ],
+  "cities": [
+    {
+      "id": "city-r",
+      "name": "Raleigh",
+      "path": "/raleigh-pressure-washing"
+    },
+    {
+      "id": "city-c",
+      "name": "Cary",
+      "path": "/cary-pressure-washing"
+    },
+    {
+      "id": "city-a",
+      "name": "Apex",
+      "path": "/apex-pressure-washing"
+    },
+    {
+      "id": "city-g",
+      "name": "Garner",
+      "path": "/garner-pressure-washing"
+    },
+    {
+      "id": "city-wf",
+      "name": "Wake Forest",
+      "path": "/wake-forest-pressure-washing"
+    },
+    {
+      "id": "city-d",
+      "name": "Durham",
+      "path": "/durham-pressure-washing"
+    },
+    {
+      "id": "city-hs",
+      "name": "Holly Springs",
+      "path": "/holly-springs-pressure-washing"
+    },
+    {
+      "id": "city-cl",
+      "name": "Clayton",
+      "path": "/clayton-pressure-washing"
+    },
+    {
+      "id": "city-fv",
+      "name": "Fuquay-Varina",
+      "path": "/fuquay-varina-pressure-washing"
+    },
+    {
+      "id": "city-mv",
+      "name": "Morrisville",
+      "path": "/morrisville-pressure-washing"
+    }
+  ],
+  "residentialCategories": [
+    {
+      "id": "res-house-washing",
+      "heading": "House Washing & Soft Washing",
+      "subheading": "Gentle on surfaces, tough on grime",
+      "intro": "We use low-pressure soft washing with professional-grade detergents to safely remove mold, mildew, algae, and oxidation from your home's exterior without damaging siding, paint, or trim.",
+      "services": [
+        {
+          "id": "r1",
+          "name": "Vinyl & Aluminum Siding",
+          "description": "Full exterior wash removing black streaks, mold, and oxidation."
+        },
+        {
+          "id": "r2",
+          "name": "Brick & Stucco",
+          "description": "Low-pressure rinse that lifts dirt without eroding mortar or texture."
+        },
+        {
+          "id": "r3",
+          "name": "Wood Siding & Lap Board",
+          "description": "Soft wash safe for painted and stained wood surfaces."
+        },
+        {
+          "id": "r4",
+          "name": "Fascia, Soffits & Gutters",
+          "description": "Exterior gutter brightening and fascia cleaning included."
+        },
+        {
+          "id": "r5",
+          "name": "Roof Soft Washing",
+          "description": "Removes black algae and moss without voiding your roof warranty."
+        }
+      ]
+    },
+    {
+      "id": "res-driveways",
+      "heading": "Driveways, Walkways & Sidewalks",
+      "subheading": "Restore curb appeal from the ground up",
+      "intro": "High-pressure surface cleaning removes years of oil stains, tire marks, rust, and embedded dirt from concrete, asphalt, and paver surfaces — leaving them looking nearly new.",
+      "services": [
+        {
+          "id": "r6",
+          "name": "Concrete Driveway Cleaning",
+          "description": "Hot-water pressure washing with surface cleaner for even, streak-free results."
+        },
+        {
+          "id": "r7",
+          "name": "Asphalt Driveway Cleaning",
+          "description": "Safe lower-pressure wash that won't disturb asphalt binders."
+        },
+        {
+          "id": "r8",
+          "name": "Paver & Brick Driveway",
+          "description": "Detailed cleaning that preserves joint sand and sealer."
+        },
+        {
+          "id": "r9",
+          "name": "Sidewalks & Walkways",
+          "description": "Front entry and side walkways cleaned to match your driveway."
+        },
+        {
+          "id": "r10",
+          "name": "Oil & Grease Stain Removal",
+          "description": "Pre-treatment degreaser applied before pressure washing for deep stain lift."
+        }
+      ]
+    },
+    {
+      "id": "res-patios-decks",
+      "heading": "Patios, Decks & Outdoor Living",
+      "subheading": "Bring your backyard back to life",
+      "intro": "We clean all types of outdoor living surfaces — from wood decks and composite boards to stamped concrete patios and natural stone — restoring color and removing slippery organic growth.",
+      "services": [
+        {
+          "id": "r11",
+          "name": "Wood Deck Cleaning",
+          "description": "Removes gray weathering, mold, and mildew to prep for staining or sealing."
+        },
+        {
+          "id": "r12",
+          "name": "Composite Deck Cleaning",
+          "description": "Low-pressure wash safe for Trex, TimberTech, and similar materials."
+        },
+        {
+          "id": "r13",
+          "name": "Stamped Concrete Patio",
+          "description": "Surface cleaning that protects decorative patterns and sealers."
+        },
+        {
+          "id": "r14",
+          "name": "Natural Stone & Flagstone",
+          "description": "Gentle cleaning that preserves stone texture and color."
+        },
+        {
+          "id": "r15",
+          "name": "Screened Porch & Enclosures",
+          "description": "Frame, floor, and screen panel cleaning for enclosed outdoor spaces."
+        }
+      ]
+    },
+    {
+      "id": "res-fences-walls",
+      "heading": "Fences, Walls & Exterior Structures",
+      "subheading": "Clean every surface around your property",
+      "intro": "From wood privacy fences to retaining walls and detached garages, we clean all the exterior structures on your property so everything looks consistently maintained.",
+      "services": [
+        {
+          "id": "r16",
+          "name": "Wood Fence Cleaning",
+          "description": "Removes green algae, black mold, and gray weathering from all wood types."
+        },
+        {
+          "id": "r17",
+          "name": "Vinyl Fence Cleaning",
+          "description": "Restores bright white or tan vinyl to like-new condition."
+        },
+        {
+          "id": "r18",
+          "name": "Retaining Walls",
+          "description": "Block, brick, and stone retaining walls cleaned of moss and staining."
+        },
+        {
+          "id": "r19",
+          "name": "Detached Garage & Outbuildings",
+          "description": "Full exterior wash matching your home's clean appearance."
+        },
+        {
+          "id": "r20",
+          "name": "Mailbox & Entry Columns",
+          "description": "Detail cleaning of entry features that frame your home's curb appeal."
+        }
+      ]
+    },
+    {
+      "id": "res-windows-gutters",
+      "heading": "Window Washing & Gutter Cleaning",
+      "subheading": "Crystal-clear windows, free-flowing gutters",
+      "intro": "Streak-free window cleaning and thorough gutter flushing are the finishing touches that complete a full exterior cleaning service for your home.",
+      "services": [
+        {
+          "id": "r21",
+          "name": "Exterior Window Washing",
+          "description": "Squeegee-finished cleaning for all ground-floor and second-story windows."
+        },
+        {
+          "id": "r22",
+          "name": "Screen Cleaning",
+          "description": "Window screens removed, washed, and reinstalled."
+        },
+        {
+          "id": "r23",
+          "name": "Gutter Flushing",
+          "description": "Downspouts and gutters flushed clear of debris and blockages."
+        },
+        {
+          "id": "r24",
+          "name": "Gutter Exterior Brightening",
+          "description": "Tiger-stripe stain removal from the outside face of gutters."
+        },
+        {
+          "id": "r25",
+          "name": "Fascia Board Cleaning",
+          "description": "Painted fascia cleaned of mold and oxidation streaks."
+        }
+      ]
+    }
+  ],
+  "residentialServiceAreas": [
+    {
+      "id": "rsa-raleigh",
+      "name": "Raleigh",
+      "path": "/raleigh-pressure-washing"
+    },
+    {
+      "id": "rsa-cary",
+      "name": "Cary",
+      "path": "/cary-pressure-washing"
+    },
+    {
+      "id": "rsa-apex",
+      "name": "Apex",
+      "path": "/apex-pressure-washing"
+    },
+    {
+      "id": "rsa-garner",
+      "name": "Garner",
+      "path": "/garner-pressure-washing"
+    },
+    {
+      "id": "rsa-holly-springs",
+      "name": "Holly Springs",
+      "path": "/holly-springs-pressure-washing"
+    },
+    {
+      "id": "rsa-morrisville",
+      "name": "Morrisville",
+      "path": "/morrisville-pressure-washing"
+    },
+    {
+      "id": "rsa-clayton",
+      "name": "Clayton",
+      "path": "/clayton-pressure-washing"
+    },
+    {
+      "id": "rsa-wake-forest",
+      "name": "Wake Forest",
+      "path": "/wake-forest-pressure-washing"
+    },
+    {
+      "id": "rsa-durham",
+      "name": "Durham",
+      "path": "/durham-pressure-washing"
+    },
+    {
+      "id": "rsa-fuquay",
+      "name": "Fuquay-Varina",
+      "path": "/fuquay-varina-pressure-washing"
+    }
+  ]
+}

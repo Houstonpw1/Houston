@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Pressure Washing in Fuquay-Varina, NC | AAA Houston Pressure Washing, LLC",
+    "description": "Professional pressure washing in Fuquay-Varina, NC. Driveways, house washing, patios, sidewalks & more. Fully insured. Free quotes."
+  },
+  "hero": {
+    "eyebrow": "Fuquay-Varina, NC",
+    "h1": "Pressure Washing in Fuquay-Varina, NC",
+    "intro": "5-star rated exterior cleaning for Fuquay-Varina homes and businesses."
+  },
+  "intro_body": "Fuquay-Varina's rapid growth has brought beautiful new neighborhoods and thriving businesses to southern Wake County. AAA Houston Pressure Washing, LLC serves Fuquay-Varina homeowners and businesses with professional exterior cleaning — from Main Street storefronts to residential driveways and patios throughout the area.",
+  "services_heading": "Our Services in Fuquay-Varina",
+  "services": [
+    {
+      "id": "s1",
+      "h3": "Driveway Cleaning",
+      "body": "Remove oil stains, tire marks, mold, and embedded grime from concrete and asphalt driveways."
+    },
+    {
+      "id": "s2",
+      "h3": "House Washing",
+      "body": "Safe soft washing for vinyl, hardie plank, brick, stucco, and wood siding."
+    },
+    {
+      "id": "s3",
+      "h3": "Patio Cleaning",
+      "body": "Restore concrete, pavers, and brick patios to their original clean appearance."
+    },
+    {
+      "id": "s4",
+      "h3": "Sidewalk Cleaning",
+      "body": "Eliminate algae, mold, and slip hazards from walkways and entryways."
+    },
+    {
+      "id": "s5",
+      "h3": "Fence Cleaning",
+      "body": "Clean wood, vinyl, and metal fences to remove mold, mildew, and discoloration."
+    },
+    {
+      "id": "s6",
+      "h3": "Softwashing",
+      "body": "Low-pressure soft washing for delicate surfaces including roofs and painted wood."
+    },
+    {
+      "id": "s7",
+      "h3": "Mold & Grime Removal",
+      "body": "Professional biocide treatments to kill mold and algae at the root."
+    },
+    {
+      "id": "s8",
+      "h3": "Commercial Cleaning",
+      "body": "Full-service commercial exterior cleaning for Fuquay-Varina businesses and property managers."
+    }
+  ],
+  "why_heading": "Why Fuquay-Varina Chooses AAA Houston",
+  "why_items": [
+    {
+      "id": "w1",
+      "title": "Fully Insured",
+      "body": "Full liability coverage for all residential and commercial work in North Carolina."
+    },
+    {
+      "id": "w2",
+      "title": "Eco-Friendly Solutions",
+      "body": "Biodegradable cleaning solutions safe for your family, pets, and landscaping."
+    },
+    {
+      "id": "w3",
+      "title": "Satisfaction Guaranteed",
+      "body": "If you're not completely satisfied, we'll come back and make it right."
+    },
+    {
+      "id": "w4",
+      "title": "Locally Owned & Operated",
+      "body": "We live and work in this community. Your neighbors are our neighbors."
+    }
+  ],
+  "why_checklist": [
+    {
+      "id": "c1",
+      "text": "Fully insured"
+    },
+    {
+      "id": "c2",
+      "text": "Eco-friendly cleaning solutions"
+    },
+    {
+      "id": "c3",
+      "text": "Satisfaction guaranteed"
+    },
+    {
+      "id": "c4",
+      "text": "Flexible scheduling"
+    },
+    {
+      "id": "c5",
+      "text": "Free, no-obligation quotes"
+    },
+    {
+      "id": "c6",
+      "text": "Locally owned and operated"
+    }
+  ],
+  "cta_heading": "Ready for a Cleaner Home in Fuquay-Varina?",
+  "cta_body": "Get your free, no-obligation quote today.",
+  "services_subheading": "Professional exterior cleaning for every surface.",
+  "why_subheading": "5-star rated, fully insured, locally owned."
+}

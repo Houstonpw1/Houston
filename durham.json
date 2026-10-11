@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Pressure Washing in Durham, NC | AAA Houston Pressure Washing, LLC",
+    "description": "Professional pressure washing services in Durham, NC. Driveway cleaning, house washing, softwashing, brick washing, patio cleaning & more. Free quotes."
+  },
+  "hero": {
+    "eyebrow": "Durham, NC",
+    "h1": "Pressure Washing Services in Durham, NC",
+    "intro": "AAA Houston Pressure Washing, LLC serves Durham homeowners and businesses with professional exterior cleaning — from Trinity Park and Watts-Hillandale to South Durham and Jordan Lake communities."
+  },
+  "intro_body": "Durham's mix of historic homes, modern developments, and commercial properties creates a wide range of exterior cleaning needs. Older brick and wood-sided homes in established neighborhoods accumulate decades of mold, mildew, and grime, while newer construction in South Durham faces heavy pollen deposits and the organic growth that comes with Durham's lush urban tree canopy. AAA Houston Pressure Washing, LLC has the expertise and equipment to clean every surface type safely and effectively.",
+  "services_heading": "Our Durham Pressure Washing Services",
+  "services_subheading": "Expert Cleaning for Durham's Diverse Properties",
+  "services": [
+    {
+      "id": "d-s1",
+      "name": "Driveway Cleaning",
+      "description": "Commercial surface cleaners remove oil, tire marks, leaf tannins, and organic growth from concrete, brick, and paver driveways — delivering a uniform, bright finish."
+    },
+    {
+      "id": "d-s2",
+      "name": "House Washing",
+      "description": "Safe, thorough exterior cleaning for vinyl, hardie plank, stucco, and painted wood siding — removing mold, mildew, algae, and pollen without damaging your home."
+    },
+    {
+      "id": "d-s3",
+      "name": "Brick & Masonry Washing",
+      "description": "Specialized low-pressure cleaning for Durham's historic brick homes and masonry surfaces — removing biological growth and staining without damaging mortar or brick faces."
+    },
+    {
+      "id": "d-s4",
+      "name": "Softwashing",
+      "description": "Eco-friendly biocidal solutions kill mold and algae at the root for results that last up to 3x longer — the safest method for Durham's older and more delicate siding types."
+    },
+    {
+      "id": "d-s5",
+      "name": "Patio Cleaning",
+      "description": "Deep-clean concrete, brick, flagstone, and paver patios — removing leaf tannins, mold, grill grease, and embedded grime from your outdoor living space."
+    },
+    {
+      "id": "d-s6",
+      "name": "Sidewalk Cleaning",
+      "description": "Eliminate algae, moss, and mildew from walkways — restoring a safe, slip-resistant surface for your family, guests, and visitors."
+    },
+    {
+      "id": "d-s7",
+      "name": "Fence Cleaning",
+      "description": "Restore wood, vinyl, and metal fencing — removing mold, mildew, oxidation, and weathering to protect your fence and extend its lifespan."
+    },
+    {
+      "id": "d-s8",
+      "name": "Window Washing",
+      "description": "Streak-free interior and exterior window cleaning — removing pollen, hard water spots, and grime from every pane on single and multi-story Durham homes."
+    }
+  ],
+  "why_heading": "Why Durham Homeowners Choose AAA Houston",
+  "why_subheading": "Trusted Exterior Cleaning Across the Bull City",
+  "why_points": [
+    {
+      "id": "d-w1",
+      "text": "Experience with historic and modern Durham properties"
+    },
+    {
+      "id": "d-w2",
+      "text": "Fully insured technicians"
+    },
+    {
+      "id": "d-w3",
+      "text": "Specialized brick and masonry cleaning expertise"
+    },
+    {
+      "id": "d-w4",
+      "text": "Eco-friendly solutions safe for landscaping"
+    },
+    {
+      "id": "d-w5",
+      "text": "No-obligation free quotes"
+    },
+    {
+      "id": "d-w6",
+      "text": "Serving Trinity Park, South Durham, and all Durham neighborhoods"
+    }
+  ],
+  "cta_heading": "Get a Free Quote in Durham",
+  "cta_body": "Ready to restore your Durham property's exterior? Contact AAA Houston Pressure Washing, LLC today for a free, no-obligation quote anywhere in Durham, NC."
+}

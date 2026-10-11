@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "title": "Commercial Pressure Washing in Raleigh, NC | AAA Houston Pressure Washing, LLC",
+    "description": "Professional commercial pressure washing across Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina & Morrisville, NC. Parking lots, storefronts, building exteriors & more."
+  },
+  "hero": {
+    "eyebrow": "Commercial Services",
+    "h1": "Commercial Pressure Washing Services in Raleigh & Surrounding Cities",
+    "intro": "Professional exterior cleaning for businesses, property managers, and commercial property owners across Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina, and Morrisville.",
+    "cta_primary": "Request a Commercial Quote",
+    "cta_phone": "Call (919) 473-3550"
+  },
+  "features": [
+    {
+      "id": "f1",
+      "text": "Fully insured for commercial work"
+    },
+    {
+      "id": "f2",
+      "text": "Serving Raleigh & surrounding cities"
+    },
+    {
+      "id": "f3",
+      "text": "Custom commercial quotes available"
+    },
+    {
+      "id": "f4",
+      "text": "Flexible scheduling — nights & weekends"
+    },
+    {
+      "id": "f5",
+      "text": "Commercial-grade equipment & solutions"
+    },
+    {
+      "id": "f6",
+      "text": "Property managers & HOAs welcome"
+    }
+  ],
+  "categories_section": {
+    "eyebrow": "What We Clean",
+    "heading": "Commercial Exterior Cleaning Services",
+    "subheading": "Every Surface. Every Property Type. Fully Insured.",
+    "intro": "From parking lots and loading docks to building facades and specialty industrial assets — we handle every commercial exterior cleaning need across Raleigh and surrounding cities."
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "heading": "Hardscapes & Flatwork",
+      "subheading": "High-Traffic Ground Surfaces",
+      "intro": "These high-traffic ground surfaces are the most common areas requiring commercial washing due to heavy foot traffic, vehicles, and weather exposure.",
+      "services": [
+        {
+          "id": "s1-1",
+          "name": "Sidewalks & Entryways",
+          "desc": "Removes chewing gum, heavy soda spills, food stains, and layers of gray foot-traffic grime."
+        },
+        {
+          "id": "s1-2",
+          "name": "Parking Lots & Parking Garages",
+          "desc": "Cleans entire concrete or asphalt parking zones, lifting tire tracks, brake dust, and mud."
+        },
+        {
+          "id": "s1-3",
+          "name": "Oil & Fluid Stains",
+          "desc": "Blasts away dark oil spots, transmission fluid drips, and antifreeze stains left by leaking vehicles."
+        },
+        {
+          "id": "s1-4",
+          "name": "Drive-Thru Lanes",
+          "desc": "Cleans concentrated buildup of heavy engine oil, exhaust soot, and spilled food or drinks at fast-food lanes and bank kiosks."
+        },
+        {
+          "id": "s1-5",
+          "name": "Loading Docks & Delivery Bays",
+          "desc": "Removes heavy industrial grime, grease, tire marks from semi-trucks, and forklift tracks."
+        },
+        {
+          "id": "s1-6",
+          "name": "Dumpster Pads & Enclosures",
+          "desc": "Sanitizes and scrubs the concrete slab where trash bins sit — washing away leaked garbage fluids, rotting organic matter, and foul smells."
+        },
+        {
+          "id": "s1-7",
+          "name": "Patios, Courtyards & Plazas",
+          "desc": "Deep cleans outdoor dining areas, community plazas, and brick walkways used for public gatherings."
+        },
+        {
+          "id": "s1-8",
+          "name": "Stairwells & Parking Ramps",
+          "desc": "Cleans enclosed or outdoor concrete staircases and multi-level garage ramps to remove slippery algae and trash stains."
+        },
+        {
+          "id": "s1-9",
+          "name": "Gas Station Pump Islands",
+          "desc": "Dissolves diesel and gasoline spills, grease, and grime around fuel pumps."
+        }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "heading": "Building Structural Exteriors",
+      "subheading": "Restore & Protect Your Building Envelope",
+      "intro": "These services restore the exterior of the property to prevent structural damage and keep the building looking fresh and professional.",
+      "services": [
+        {
+          "id": "s2-1",
+          "name": "Storefronts & Facades",
+          "desc": "Refreshes retail frontages, removing cobwebs, bird droppings, dust, and spider webs from customer entrances."
+        },
+        {
+          "id": "s2-2",
+          "name": "Building Siding & Walls",
+          "desc": "Washes large vertical walls made of brick, concrete, stucco, EIFS, metal panels, or wood siding to clear atmospheric pollution and dirt."
+        },
+        {
+          "id": "s2-3",
+          "name": "High-Rise & Multi-Story Exteriors",
+          "desc": "Cleans the walls of tall commercial buildings utilizing boom lifts, scaffolding, or water-fed extension poles."
+        },
+        {
+          "id": "s2-4",
+          "name": "Mold, Mildew & Algae Removal",
+          "desc": "Eradicates green or black organic growth thriving on shaded walls, columns, and foundations."
+        },
+        {
+          "id": "s2-5",
+          "name": "Graffiti Removal",
+          "desc": "Uses heavy heat, pressure, and special chemical strippers to lift spray paint and permanent markers from brick or masonry."
+        },
+        {
+          "id": "s2-6",
+          "name": "Rust & Efflorescence Stain Removal",
+          "desc": "Cleans orange rust streaks caused by battery acid or hard-water irrigation, and removes white powdery salt buildup on masonry."
+        },
+        {
+          "id": "s2-7",
+          "name": "Awnings & Canopies",
+          "desc": "Gently washes fabric, vinyl, or metal awnings above storefront doors to remove bird droppings and mold."
+        },
+        {
+          "id": "s2-8",
+          "name": "Commercial Roofs",
+          "desc": "Soft-washes flat or sloped commercial roofs to clear away black algae streaks, moss, lichen, and accumulated leaves or bird debris."
+        }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "heading": "Fencing, Boundaries & Landscape Elements",
+      "subheading": "Preserve Security & Appearance",
+      "intro": "The structures surrounding the main property require routine cleaning to preserve security, safety, and professional appearance.",
+      "services": [
+        {
+          "id": "s3-1",
+          "name": "Retaining Walls & Privacy Fences",
+          "desc": "Cleans stone, brick, concrete block, or vinyl perimeter fences surrounding commercial layouts."
+        },
+        {
+          "id": "s3-2",
+          "name": "Dumpster Gates & Enclosure Walls",
+          "desc": "Washes the wood, chain-link, or brick walls that enclose commercial trash bins."
+        },
+        {
+          "id": "s3-3",
+          "name": "Monuments & Pylon Signage",
+          "desc": "Washes large concrete, brick, or plastic signs near roads that display the business name and logo."
+        },
+        {
+          "id": "s3-4",
+          "name": "Curbs, Gutters & Bollards",
+          "desc": "Cleans the concrete edges of parking lots, storm drains, and safety posts to keep their safety paint bright and visible."
+        }
+      ]
+    },
+    {
+      "id": "cat-4",
+      "heading": "Specialty Industrial & Commercial Assets",
+      "subheading": "Specialized Cleaning for High-Value Equipment",
+      "intro": "Specialized niche cleaning targets that require commercial-grade equipment and expertise to handle safely and effectively.",
+      "services": [
+        {
+          "id": "s4-1",
+          "name": "Heavy Machinery & Construction Equipment",
+          "desc": "Blasts thick mud, grease, and hydraulic oil off bulldozers, excavators, tractors, and cranes."
+        },
+        {
+          "id": "s4-2",
+          "name": "Commercial Vehicle Fleets",
+          "desc": "Washes rows of delivery vans, semi-trucks, trailers, box trucks, or transit buses."
+        },
+        {
+          "id": "s4-3",
+          "name": "Shopping Carts & Cart Corrals",
+          "desc": "Sanitizes metal or plastic shopping carts and the outdoor metal stalls where customers return them."
+        },
+        {
+          "id": "s4-4",
+          "name": "Playgrounds & Park Equipment",
+          "desc": "Sanitizes and washes plastic, metal, or wood playground structures at daycares, fast-food restaurants, and public parks."
+        },
+        {
+          "id": "s4-5",
+          "name": "Stadia & Bleachers",
+          "desc": "Cleans large seating areas, concrete steps, and concession areas inside sports arenas or outdoor amphitheaters."
+        }
+      ]
+    }
+  ],
+  "cities_section": {
+    "eyebrow": "Where We Work",
+    "heading": "Commercial Cleaning Across Our Service Area",
+    "subheading": "10 Cities. One Trusted Team.",
+    "intro": "Select your city below to learn about our commercial pressure washing services in your area.",
+    "sidebar_heading": "Commercial Service Areas",
+    "sidebar_intro": "We serve these cities:",
+    "cta_sidebar": "Request Commercial Quote"
+  },
+  "cities": [
+    {
+      "id": "c-r",
+      "name": "Raleigh",
+      "slug": "raleigh",
+      "path": "/raleigh-pressure-washing",
+      "h1": "Commercial Pressure Washing in Raleigh, NC",
+      "h2": "Serving Raleigh Businesses & Property Managers",
+      "h3": "Parking Lots, Storefronts, Building Exteriors & More",
+      "body": "AAA Houston Pressure Washing, LLC is Raleigh's trusted commercial exterior cleaning company. From downtown office parks and Brier Creek retail centers to North Hills storefronts and warehouse loading docks, we keep commercial properties across Raleigh looking professional and well-maintained. Our fully insured team handles everything from parking lot cleaning and building facade washing to graffiti removal and fleet washing — with flexible scheduling that works around your business hours."
+    },
+    {
+      "id": "c-c",
+      "name": "Cary",
+      "slug": "cary",
+      "path": "/cary-pressure-washing",
+      "h1": "Commercial Pressure Washing in Cary, NC",
+      "h2": "Cary's Premier Commercial Exterior Cleaning",
+      "h3": "Retail Centers, Office Parks & HOA Properties",
+      "body": "Cary's booming commercial corridors — from Crossroads Plaza and Waverly Place to Preston Corners and the RTP corridor — demand a professional appearance year-round. AAA Houston Pressure Washing, LLC delivers commercial-grade exterior cleaning for Cary businesses, HOAs, and property management companies. We clean storefronts, parking lots, building exteriors, sidewalks, and more — keeping your Cary property looking sharp and inviting for customers."
+    },
+    {
+      "id": "c-a",
+      "name": "Apex",
+      "slug": "apex",
+      "path": "/apex-pressure-washing",
+      "h1": "Commercial Pressure Washing in Apex, NC",
+      "h2": "Apex Business & Commercial Property Cleaning",
+      "h3": "Storefronts, Driveways, Parking Lots & More",
+      "body": "As one of the fastest-growing towns in the area, Apex has a thriving commercial scene that needs consistent exterior maintenance. AAA Houston Pressure Washing, LLC serves Apex businesses along US-64, Salem Street, and the Beaver Creek Commons area with professional commercial pressure washing. We handle parking lots, storefronts, building walls, dumpster pads, and sidewalks — giving your Apex property the clean, professional look that attracts customers."
+    },
+    {
+      "id": "c-g",
+      "name": "Garner",
+      "slug": "garner",
+      "path": "/garner-pressure-washing",
+      "h1": "Commercial Pressure Washing in Garner, NC",
+      "h2": "Garner Commercial & Industrial Cleaning Services",
+      "h3": "Industrial Parks, Retail Centers & Loading Docks",
+      "body": "Garner's mix of retail centers, industrial parks, and commercial corridors along US-70 and Timber Drive requires regular exterior cleaning to stay competitive. AAA Houston Pressure Washing, LLC provides commercial pressure washing for Garner businesses — from storefront facade cleaning and sidewalk washing to loading dock degreasing and parking lot cleaning. We serve property managers, business owners, and industrial facilities throughout Garner with fully insured, professional service."
+    },
+    {
+      "id": "c-wf",
+      "name": "Wake Forest",
+      "slug": "wake-forest",
+      "path": "/wake-forest-pressure-washing",
+      "h1": "Commercial Pressure Washing in Wake Forest, NC",
+      "h2": "Wake Forest Business Exterior Cleaning",
+      "h3": "Storefronts, Parking Lots & Commercial Buildings",
+      "body": "Wake Forest's growing commercial districts along Capital Boulevard and Rogers Road are home to hundreds of businesses that need regular exterior maintenance. AAA Houston Pressure Washing, LLC serves Wake Forest commercial clients with professional pressure washing for storefronts, parking lots, building exteriors, sidewalks, and more. Our team works around your schedule to minimize disruption while delivering the clean, professional results your Wake Forest property deserves."
+    },
+    {
+      "id": "c-d",
+      "name": "Durham",
+      "slug": "durham",
+      "path": "/durham-pressure-washing",
+      "h1": "Commercial Pressure Washing in Durham, NC",
+      "h2": "Durham Commercial Property Cleaning Experts",
+      "h3": "Office Parks, Retail Facades & Parking Structures",
+      "body": "Durham's vibrant commercial scene — from the American Tobacco Campus and Brightleaf Square to South Square and Research Triangle Park — demands a professional exterior appearance. AAA Houston Pressure Washing, LLC provides commercial pressure washing for Durham businesses, property managers, and commercial real estate owners. We clean building facades, parking lots, sidewalks, loading docks, and more — keeping Durham commercial properties clean, safe, and inviting."
+    },
+    {
+      "id": "c-hs",
+      "name": "Holly Springs",
+      "slug": "holly-springs",
+      "path": "/holly-springs-pressure-washing",
+      "h1": "Commercial Pressure Washing in Holly Springs, NC",
+      "h2": "Holly Springs Commercial Cleaning Services",
+      "h3": "Retail, Restaurant & Office Exterior Cleaning",
+      "body": "Holly Springs has grown into a thriving commercial hub with retail centers, restaurants, and office parks that need consistent exterior maintenance. AAA Houston Pressure Washing, LLC serves Holly Springs businesses with professional commercial pressure washing — from the Shoppes at Holly Springs and Bass Lake Road commercial corridor to industrial facilities and HOA common areas. We keep your Holly Springs property looking clean and professional year-round."
+    },
+    {
+      "id": "c-cl",
+      "name": "Clayton",
+      "slug": "clayton",
+      "path": "/clayton-pressure-washing",
+      "h1": "Commercial Pressure Washing in Clayton, NC",
+      "h2": "Clayton Business & Commercial Property Washing",
+      "h3": "Storefronts, Parking Lots & Industrial Facilities",
+      "body": "Clayton's expanding commercial districts along US-70 Business and Hwy 42 are home to a growing number of businesses that need regular exterior cleaning. AAA Houston Pressure Washing, LLC provides commercial pressure washing for Clayton businesses, retail centers, and industrial facilities. From storefront cleaning and parking lot washing to building facade restoration and dumpster pad sanitizing, we keep Clayton commercial properties clean and well-maintained."
+    },
+    {
+      "id": "c-fv",
+      "name": "Fuquay-Varina",
+      "slug": "fuquay-varina",
+      "path": "/fuquay-varina-pressure-washing",
+      "h1": "Commercial Pressure Washing in Fuquay-Varina, NC",
+      "h2": "Fuquay-Varina Commercial Exterior Cleaning",
+      "h3": "Main Street, Retail & Commercial Property Washing",
+      "body": "Fuquay-Varina's growing commercial scene along Main Street, Judd Parkway, and the US-401 corridor needs regular exterior maintenance to stay competitive. AAA Houston Pressure Washing, LLC serves Fuquay-Varina businesses and property managers with professional commercial pressure washing. We clean storefronts, parking lots, building walls, sidewalks, and loading docks — delivering the clean, professional appearance that keeps customers coming back to your Fuquay-Varina property."
+    },
+    {
+      "id": "c-mv",
+      "name": "Morrisville",
+      "slug": "morrisville",
+      "path": "/morrisville-pressure-washing",
+      "h1": "Commercial Pressure Washing in Morrisville, NC",
+      "h2": "Morrisville Commercial & Corporate Campus Cleaning",
+      "h3": "Corporate Campuses, Tech Parks & Commercial Centers",
+      "body": "Morrisville is home to some of the area's most prominent corporate campuses, tech parks, and commercial centers along Davis Drive, Morrisville Parkway, and the RTP corridor. AAA Houston Pressure Washing, LLC provides commercial exterior cleaning for Morrisville businesses, corporate campuses, and property management companies. We handle building facade washing, parking lot cleaning, sidewalk cleaning, and fleet washing — keeping Morrisville commercial properties looking sharp and professional."
+    }
+  ],
+  "cta": {
+    "heading": "Ready to Get a Commercial Quote?",
+    "body": "We serve businesses, property managers, and HOAs across Raleigh, Cary, Apex, Garner, Wake Forest, Durham, Holly Springs, Clayton, Fuquay-Varina, and Morrisville. Contact us today for a free, no-obligation estimate.",
+    "cta_primary": "Get a Free Commercial Quote",
+    "cta_review": "★ Leave Us a Review"
+  }
+}
